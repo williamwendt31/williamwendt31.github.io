@@ -1,0 +1,25 @@
+.container {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+}
+
+.top-bar {
+    background-color: gainsboro;
+}
+
+.personal-info {
+    padding: 2rem;
+}
+
+.half-column {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.icon {
+    font-size: 1.8em !important;
+    color: black !important;
+    margin-right: 1.5rem;
+}
