@@ -1,3 +1,7 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
 body {
     margin: 0;
     font-family: sans-serif;
@@ -140,7 +144,7 @@ body {
 }
 
 .me {
-    height: 15rem;
-    width: 14rem;
+    height: 17rem;
+    width: 15rem;
     margin-bottom: 3rem;
 }
