@@ -44,8 +44,7 @@ body {
 }
 
 .projects {
-    background-image: url('../images/wallpaper.jpg');
-    background-size: contain;
+    background-color: black;
 }
 
 .subheading {
