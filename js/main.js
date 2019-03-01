@@ -1,4 +1,4 @@
-$(document).ready(() => {
+$(document).ready(function() {
     $('.scrollspy').scrollSpy();
     $('.pushpin').pushpin();
     $('.project-tech').hide();
@@ -7,4 +7,7 @@ $(document).ready(() => {
     }, function() {
         $(this).find('.project-tech').hide();
     });
+
+    $('.parallax').parallax();
+    M.updateTextFields();
 });
